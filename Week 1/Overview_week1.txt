@@ -1,0 +1,5 @@
+This week is all about getting started with R and learning some of the basic details of the language. If you haven't already installed R, you should go to the R web site and download R for your platform (Windows, Mac, or Unix/Linux). Also, if you want, you can download RStudio, which is a free interactive development environment designed for R that is very useful and we use quite a bit in the Data Science Specialization. I've made some videos to help you along with the installation process:
+
+Installing R on Windows
+Installing R on a Mac
+Installing R on RStudio (on a Mac)
