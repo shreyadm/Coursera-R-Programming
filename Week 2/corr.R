@@ -1,4 +1,4 @@
-
+#Set directory
 correlation <- function(directory,threshold=0){
   csv_files <- list.files(directory,full.names = TRUE)
   df <- data.frame()
