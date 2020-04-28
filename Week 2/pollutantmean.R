@@ -1,4 +1,4 @@
-directory <- "C:/Shreya/TE/R Programming Cousera/Week2/specdata"
+#Set directory
 pollutantmean <- function(directory, pollutant, id = 1:332) {
   csv_files <- list.files(directory, full.names = TRUE) 
   z <- data.frame()
