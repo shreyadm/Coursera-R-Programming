@@ -1,4 +1,4 @@
-directory <- "C:/Shreya/TE/R Programming Cousera/Week2/specdata"
+
 correlation <- function(directory,threshold=0){
   csv_files <- list.files(directory,full.names = TRUE)
   df <- data.frame()
